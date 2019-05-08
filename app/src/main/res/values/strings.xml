@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Alimento Vegetal</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detalhe_vegetal">Detalhes</string>
+    <string name="acao_favorito">Adicionar aos favoritos</string>
+    <string name="comparar_alimentos">Comparar alimentos</string>
+    <string name="comparar_alimentos_descricao">Selecione no máximo cinco alimentos.</string>
+    <string name="item_add_favorito">Item adicionado aos favoritos</string>
+    <string name="vegetais">Alimentos</string>
+    <string name="favorito">Favoritos</string>
+    <string name="sem_descricao">n/a</string>
+    <string name="msg_erro_conexao">Não existe conexão, por favor conecte-se e tente novamente!</string>
+    <string name="msg_erro_dados">Erro ao obter dados do servidor!</string>
+    <string name="item_add_favoritos">Item adicionado aos favoritos!</string>
+    <string name="item_del_favoritos">Item removido dos favoritos!</string>
+    <string name="action_search">Pesquisar</string>
+    <string name="pesquisar_vegetal">Pesquise pelo nome...</string>
+    <string name="obs_abreviacoes">* Abreviações: g = grama, mg = miligrama, N/A = não
+    aplicável, Tr = traço.</string>
+
+</resources>

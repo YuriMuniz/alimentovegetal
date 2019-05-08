@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nomes_composicao_ordernar">
+        <item>+ Calorias</item>
+        <item>- Calorias</item>
+        <item>+ Proteína</item>
+        <item>- Proteína</item>
+        <item>+ Lipídeos</item>
+        <item>- Lipídeos</item>
+        <item>+ Carboidrato</item>
+        <item>- Carboidrato</item>
+        <item>+ Fibra alimentar</item>
+        <item>- Fibra alimentar</item>
+        <item>+ Cálcio</item>
+        <item>- Cálcio</item>
+        <item>+ Magnésio</item>
+        <item>- Magnésio</item>
+        <item>+ Manganês</item>
+        <item>- Manganês</item>
+        <item>+ Fósforo</item>
+        <item>- Fósforo</item>
+        <item>+ Ferro</item>
+        <item>- Ferro</item>
+        <item>+ Sódio</item>
+        <item>- Sódio</item>
+        <item>+ Potássio</item>
+        <item>- Potássio</item>
+        <item>+ Cobre</item>
+        <item>- Cobre</item>
+        <item>+ Zinco</item>
+        <item>- Zinco</item>
+        <item>+ Vitamina B1</item>
+        <item>- Vitamina B1</item>
+        <item>+ Vitamina B2</item>
+        <item>- Vitamina B2</item>
+        <item>+ Vitamina B6</item>
+        <item>- Vitamina B6</item>
+        <item>+ Vitamina B3</item>
+        <item>- Vitamina B3</item>
+        <item>+ Vitamina C</item>
+        <item>- Vitamina C</item>
+    </string-array>
+
+</resources>
